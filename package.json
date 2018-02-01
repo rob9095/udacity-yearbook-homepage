@@ -1,0 +1,40 @@
+{
+    "title": "Udacity Yearbook Homepage",
+    "name": "bootstrap-student-yearbook",
+    "version": "4.0.0",
+    "description": "A HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://github.com/rob9095/udacity-yearbook-homepage",
+    "bugs": {
+        "url": "https://github.com/rob9095/udacity-yearbook-homepage/issues",
+        "email": "robt9095@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Bootstrap",
+    "contributors": [
+        "Rob Tucker (http://www.robt.co)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npm/npm.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.6",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.2",
+        "gulp-header": "2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0"
+    }
+}
